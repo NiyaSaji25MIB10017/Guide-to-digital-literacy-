@@ -3,7 +3,7 @@ I’m Niya Saji (Reg No. 25MIB10017), a student at VIT Bhopal University current
 I believe digital literacy is more than just using tools; it is about communicating safely, staying aware of cyber threats, and building a professional online presence that reflects our skills. This portfolio is my way of documenting that journey—from creating visual resources to practicing responsible digital citizenship.
 
 
-# NIYA SAJI_25MIB10017-
+# guide to digital litercy 
 This repository features five core tasks: a custom infographic, professional profiles, and coding challenges. It also includes professional email drafts, a social media guide, and a researched cybercrime case study. This project highlights my ability to use various digital tools to communicate effectively.
 
 
@@ -27,6 +27,12 @@ Kaggle: Set up a foundational account to explore data science and AI resources.
 
 Objective:The goal was to create a professional digital footprint that can be used to verify my skills and academic progress.
 
-the direct links to my profiles-
+# the direct links to my profiles-
 www.linkedin.com/in/niya-saji-4a077339b
+https://github.com/NiyaSaji25MIB10017
+
+
+# Task 3:Coding & Collaboration Platforms 
+
+https://docs.google.com/forms/d/e/1FAIpQLSdIXnAaZ2li_0qXMW4zjp5kjuw2LjsnD6Jza9QXcu-cZZgMiQ/viewform?usp=publish-editor
 
