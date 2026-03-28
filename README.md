@@ -23,9 +23,8 @@ For this task, I created a digital poster based on digital literacy. The poster 
 - Useful digital tools for students
 - Safe internet practices
 - Professional online presence
-- Email etiquette
 
-I designed the poster using Canva-style elements like simple layouts, icons, and soft colors to make it easy to understand and visually appealing.
+I designed the poster using Canva-style elements like simple layouts, icons, and colours to make it easy to understand and visually appealing.
 The final poster is included in the repository.
 
 What I Learned:
@@ -60,7 +59,7 @@ What I Learned:
 - How to present work in a structured format
 
 Files Included:
-PROFILES.pdf
+Task-2-portfolio
 
 Conclusion:
 This task helped me learn how to organize my work in a proper way. It also gave me a basic idea of how projects are managed and documented.
@@ -78,7 +77,7 @@ The aim of this task was to explore different platforms used for coding practice
 
 Part A: Coding Practice
 For this task, I chose "HackerRank" as my coding platform.
-I created an account and completed a beginner-level problem.
+I created an account and completed the task.
 
 This helped me understand basic concepts like input and output in C programming. It was a simple problem, but it gave me a clear idea of how coding platforms work and how solutions are submitted.
 
@@ -145,9 +144,8 @@ What I Learned:
 - Basic rules of email etiquette
 - Responsible behavior on social media
 
-Files Included:
-- Professional emails file
-- Social media checklist file
+File Included:
+- Task-4-email etiquette
 
 Conclusion
 This task helped me improve my communication skills and understand how to behave professionally online. These skills will be useful in both academic and real-life situations.
@@ -192,6 +190,7 @@ What all I Learned:
 - Steps to take if something goes wrong
 
 Files Included:
+task-5-cybercrime
 - Case study file
 - Prevention checklist file
 
