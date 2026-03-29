@@ -1,4 +1,4 @@
-Hello, my name is Niya Saji. I am currently a student of Artificial Intelligence and Bioinformatics. I am interested in learning how technology can be used to solve real-world and biological problems.
+Hello, my name is Niya Saji. I am currently a student of Artificial Intelligence and Bioinformatics (year 1). I am interested in learning how technology can be used to solve real-world and biological problems.
 
 I have basic knowledge of programming and enjoy exploring new tools and platforms. Through my digital literacy assignments, I have learned the importance of using technology in a safe, responsible, and effective way. I understand how to use digital tools for learning, communication, and collaboration.
 
