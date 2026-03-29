@@ -8,7 +8,7 @@ I believe digital literacy is more than just using tools; it is about communicat
 
 
 # Guide to Digital Litercy 
-This repository features five core tasks: a custom infographic, professional profiles, and coding challenges. It also includes professional email drafts, a social media guide, and a researched cybercrime case study. This project highlights my ability to use various digital tools to communicate effectively.
+This repository features five core tasks: a custom infographic, professional profiles, and coding challenges. It also includes professional email drafts, a social media guide, and a researched cybercrime case study. This project highlights my ability to use various digital tools to communicate effectively.Through this project, I hope to learn how to use digital tools effectively, stay safe online, and build a professional digital presence.
 
 
 
